@@ -1,0 +1,7 @@
+.message-box {
+    position: fixed;
+    width: 100%;
+    text-align: right;
+    z-index: 111;
+    top: 100px;
+}
